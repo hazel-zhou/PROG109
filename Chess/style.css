@@ -33,9 +33,10 @@ float:left;
  background-color:lightblue;
  text-align:center; 
  z-index:10;
- font-family:'JustLettersMedium'; 
- font-weight: normal; 
- font-style: normal; 
+ font-family: 'JustLettersMedium';
+ src: url('/assets/fonts/just-letters/ef358ebfb6c10d16ecbd6a0b3d5bf008/a57270ce20fe4b21675a3d18a5ed2b62/JustLettersMedium.otf') format('opentype');
+ font-weight: normal;
+ font-style: normal;
  font-size:36px;
 }
 
