@@ -7,7 +7,9 @@
 				margin: 0 auto;
                 font-family: Arial, Verdana, sans-serif;
 				color: #665544;
-				text-align: center;}
+				text-align: center;
+                		background: url(https://cdn131.picsart.com/357601075056201.jpg) no-repeat center fixed;
+				background-size: cover;}
 			#content {
 				overflow: auto;}
 			#nav, #feature, #footer {
@@ -29,7 +31,7 @@
 				margin-bottom: 1em;}
             #feature {
                 background-color: #b5c4b1;
-                background-image: url("https://cdn141.picsart.com/357595959016211.png");
+                background-image: url(https://cdn141.picsart.com/357595959016211.png);
                 background-size:contain;
                 background-position: right;
                 background-repeat:no-repeat;}
