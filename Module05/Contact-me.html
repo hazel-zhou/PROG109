@@ -25,13 +25,40 @@
 			<div id="content">
 			<div id="feature">
 			<h2>User Submission Form</h2>
-			<form action="Thank-you.html" method="get">
-  			<label for="fname">First name:</label>
-  			<input type="text" id="fname" name="fname"><br><br>
-  			<label for="lname">Last name:</label>
-  			<input type="text" id="lname" name="lname"><br><br>
-  			<input type="submit" value="Submit">
-			</form>
+      <form action = "thankyou.html" name = "myContact" onsubmit = "return(validate());">
+      <table cellspacing="2" cellpadding="2" border="0">
+        <tr>
+          <td align="right">
+            Name
+          </td>
+          <td>
+            <input type="text" name="Name" />
+          </td>
+        </tr>
+        <tr>
+          <td align="right">
+            Email
+          </td>
+          <td>
+            <input type="text" name="Email" />
+          </td>
+        </tr>
+        <tr>
+          <td align="right">
+            Comment
+          </td>
+          <td>
+            <textarea cols="20" rows="5" name="Comment"></textarea>
+          </td>
+        </tr>
+        <tr>
+          <td align="right"></td>
+          <td>
+            <input type="submit" value="Submit" />
+          </td>
+        </tr>
+      </table>
+    </form>
 			</div>
 			<div class="article column1">
 				<p>Web Designer: Hazel Zhou</p>
