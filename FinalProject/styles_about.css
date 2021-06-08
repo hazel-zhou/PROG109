@@ -1,0 +1,55 @@
+            h1  {
+				font-family: 'MuliRegular'; font-weight: normal; font-style: normal;
+				color: white;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;
+                font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;
+				background: url(https://oldschoolgrappling.com/wp-content/uploads/2018/08/Background-opera-speeddials-community-web-simple-backgrounds.jpg) no-repeat center fixed;
+				background-size: cover;}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #ececea;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 15em;
+				margin-bottom: 1em;
+				padding: 0.5em;
+				padding-left: 1em;
+				padding-right: 1em;}
+            #feature {
+                background-color: #f2faf0;
+                background-image: url(https://cdn141.picsart.com/358194840056211.png?type=webp&to=min&r=640);
+                background-size:contain;
+                background-position: center;
+                background-repeat:no-repeat;
+		padding-top: 0.5em;}
+            .column1 {
+                background-color: #e6effc;
+		text-align: left;}
+           .column2  {
+                background-color: #fffaf0;
+			text-align: left;}
+           .column3  {
+                background-color: #fff2f2;
+			text-align: left;}
+	   br {
+       		line-height: 0%;
+     		}
+
+
