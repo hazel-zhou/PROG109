@@ -6,7 +6,7 @@
 				width: 90%;
 				margin: 0 auto;
                 font-family: Arial, Verdana, sans-serif;
-				color: #665544;
+				color: #black;
 				text-align: center;
 				background: url(https://cdn131.picsart.com/357601075056201.jpg) no-repeat center fixed;
 				background-size: cover;}
@@ -27,7 +27,7 @@
 				background-color: #ececea;
 				padding: 0.1em 0;}
 			#feature, .article {
-				height: 10em;
+				height: 15em;
 				margin-bottom: 1em;
 				padding-left: 0.5em;}
             #feature {
