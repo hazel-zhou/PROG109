@@ -31,17 +31,23 @@
 				margin-bottom: 1em;
 				padding-left: 0.5em;}
             #feature {
-                background-color: #b5c4b1;
+                background-color: #f2faf0;
                 background-image: url(https://cdn141.picsart.com/358194840056211.png?type=webp&to=min&r=640);
                 background-size:contain;
                 background-position: center;
-                background-repeat:no-repeat;}
+                background-repeat:no-repeat;
+		padding-top: 0.5em;}
             .column1 {
-                background-color: #9ca8b8;
+                background-color: #e6effc;
 		text-align: left;}
            .column2  {
-                background-color: #b7b1a5;
+                background-color: #fffaf0;
 			text-align: left;}
            .column3  {
-                background-color: #a27e7e;
+                background-color: #fff2f2;
 			text-align: left;}
+	   br {
+       		line-height: 0%;
+     		}
+
+
